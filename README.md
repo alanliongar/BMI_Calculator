@@ -1,15 +1,16 @@
 # Calculadora IMC
-Esse projeto é um aplicativo android nativo, desenvolvido com a linguagem de programação Kotlin, tem como principal funcionalidade fazer o cálculo do IMC e mostrar o resultado na tela seguinte.
+This project is an app
+This project is a native Android application developed using the Kotlin programming language. Its main functionality is to calculate BMI and display the result on the next screen.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <p float="left">
-  <img src="https://github.com/alanliongar/Calculadora_IMC/assets/129612933/dc4eca54-0af5-49e4-bf7c-fe39ff3b966a" width="250" />
-  <img src="https://github.com/alanliongar/Calculadora_IMC/assets/129612933/f98d97a9-5cfd-49c6-bb34-2d9ac7736e54" width="250" /> 
-  <img src="https://github.com/alanliongar/Calculadora_IMC/assets/129612933/5880c14e-a508-47e9-9d32-2edcb7cb2b2c" width="250" />
+  <img src="https://github.com/user-attachments/assets/c5571106-a1d8-4164-9485-251ea4e05aa1" width="250" />
+  <img src="https://github.com/user-attachments/assets/cc67c051-888f-4389-80fe-48e43736ae40" width="250" /> 
+  <img src="https://github.com/user-attachments/assets/e59e8236-b483-40b4-94ea-8be9fc857a34" width="250" />
 </p>
 
-## Tecnologias
+## Technologies
 - Activity
 - Intent
 - Snackbar

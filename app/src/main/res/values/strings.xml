@@ -1,11 +1,18 @@
 <resources>
-    <string name="app_name">calculadoraimc</string>
-    <string name="class_1">Abaixo do peso</string>
-    <string name="class_2">Peso normal</string>
-    <string name="class_3">Sobrepeso</string>
-    <string name="class_4">Obesidade grau I</string>
-    <string name="class_5">Obesidade grau II</string>
-    <string name="class_6">Obesidade grau III</string>
-    <string name="pre_altura">Preencha a altura</string>
-    <string name="pre_peso">Preencha o peso</string>
+    <string name="app_name">bmiCalculator</string>
+    <string name="class_1">Underweight</string>
+    <string name="class_2">Normal weight</string>
+    <string name="class_3">Overweight</string>
+    <string name="class_4">Obesity grade I</string>
+    <string name="class_5">Obesity grade II</string>
+    <string name="class_6">Obesity grade III</string>
+    <string name="pre_altura">Enter the height</string>
+    <string name="pre_peso">Enter the weight</string>
+    <string name="calculadora_imc">BMI Calculator</string>
+    <string name="fill_fields">Fill in all fields to calculate your BMI</string>
+    <string name="calculateBtnText">Calculate</string>
+    <string name="clearBtn">Clear</string>
+    <string name="enter_your_weight">Enter your weight - E.g.: 70.200 kg</string>
+    <string name="enter_your_height">Enter your height - E.g.: 1.72</string>
+    <string name="confirm_your_result">Confirm your result and classification below</string>
 </resources>

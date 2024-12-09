@@ -29,7 +29,7 @@
             android:layout_marginStart="24dp"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
-            android:text="Calculadora IMC"
+            android:text="@string/calculadora_imc"
             android:textColor="@color/white"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="24dp"
             android:layout_marginEnd="24dp"
-            android:text="Confirme abaixo o seu resultado e classificação"
+            android:text="@string/confirm_your_result"
             android:textColor="@color/white" />
 
         <TextView
@@ -68,7 +68,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="A classificação do seu imc é: "
+            android:text="Your BMI classification is:"
             android:textSize="18dp" />
 
         <TextView
@@ -78,7 +78,7 @@
             android:gravity="center"
             android:textSize="30dp"
             android:textStyle="bold"
-            tools:text="NORMAL"
+            tools:text="@string/class_3"
             tools:textColor="@color/primary_650" />
     </LinearLayout>
 </LinearLayout>
