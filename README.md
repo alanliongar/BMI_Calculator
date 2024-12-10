@@ -1,4 +1,4 @@
-# Calculadora IMC
+# BMI Calculator
 This project is an app
 This project is a native Android application developed using the Kotlin programming language. Its main functionality is to calculate BMI and display the result on the next screen.
 
