@@ -5,9 +5,9 @@ This project is a native Android application developed using the Kotlin programm
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/c5571106-a1d8-4164-9485-251ea4e05aa1" width="250" />
-  <img src="https://github.com/user-attachments/assets/cc67c051-888f-4389-80fe-48e43736ae40" width="250" /> 
-  <img src="https://github.com/user-attachments/assets/e59e8236-b483-40b4-94ea-8be9fc857a34" width="250" />
+  <img src="https://github.com/alanliongar/BMI_Calculator/blob/master/Screenshot_01.png" width="250" />
+  <img src="https://github.com/alanliongar/BMI_Calculator/blob/master/Screenshot_02.png" width="250" /> 
+  <img src="https://github.com/alanliongar/BMI_Calculator/blob/master/Screenshot_03.png" width="250" />
 </p>
 
 ## Technologies
