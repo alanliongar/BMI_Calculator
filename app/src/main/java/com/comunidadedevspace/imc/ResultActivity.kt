@@ -9,7 +9,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 const val KEY_RESULT_IMC = "ResultActivity.KEY_IMC"
-//teste final
+
 class ResultActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
